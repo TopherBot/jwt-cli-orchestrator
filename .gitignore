@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+*.egg-info/
+.dist/
+
+# Virtual environments
+.env
+.venv
+ENV/
+venv/
+
+# IDE / editor folders
+.idea/
+.vscode/
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.secret*
